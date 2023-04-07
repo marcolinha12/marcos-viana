@@ -41,3 +41,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+button {
+	border: none;
+	font-family: "Fira Code", "sans-serif";
+}
+
+body {
+	font-family: "Fira Code", "sans-serif";
+}
