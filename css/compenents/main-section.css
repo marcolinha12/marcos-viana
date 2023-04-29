@@ -8,3 +8,8 @@
 .main-section .main-title {
     margin-bottom: 60px;
 }
+
+.main-section.-bgblack {
+    background-color: black;
+    border-color: #F25A70;
+}
